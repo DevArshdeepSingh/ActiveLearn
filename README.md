@@ -1,2 +1,4 @@
-# Studemini
-Study + Gemini. As simple as that.
+# ActiveLearn
+Study + Simulation + Intelligent parallelism.
+
+> "As simple as that."
